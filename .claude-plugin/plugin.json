@@ -1,0 +1,7 @@
+{
+  "name": "ramesh",
+  "description": "Indian compliance and security skills for developers: DPDP Act, IT Act, CERT-In, sector rules.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "skills": "./skills"
+}

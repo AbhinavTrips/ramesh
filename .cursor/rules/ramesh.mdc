@@ -1,0 +1,7 @@
+---
+description: Ramesh, Indian compliance guardrails (DPDP, IT Act, CERT-In, security basics)
+globs:
+alwaysApply: true
+---
+
+Follow the rules in AGENTS.md at the repo root, and the detailed playbooks in skills/*/SKILL.md when the task touches personal data, security, incidents, or legal surface.

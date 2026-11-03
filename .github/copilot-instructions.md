@@ -1,0 +1,1 @@
+Follow the rules in AGENTS.md at the repo root (Indian compliance guardrails: DPDP, IT Act, CERT-In, security). Use the playbooks in skills/*/SKILL.md when a task touches personal data, security, incidents, or legal surface.
